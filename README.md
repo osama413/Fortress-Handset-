@@ -19,7 +19,7 @@ Our commitment to 100% transparency means every component, from the CPU to the G
 
 ### The "No-Blob" Guarantee:
 * **GPU Transparency:** We utilize GPU architectures with **open-source drivers (Mesa/Gallium3D)** and open-source RTL/firmware. No closed-source drivers allowed.
-* **Modem Freedom:** We reject proprietary modem firmware. We utilize **SDR (Software Defined Radio)** interfaces to allow for an entirely open-source GSM/5G protocol stack implementation.
+* **Modem Freedom:** We reject proprietary modem firmware. We utilize **SDR (Software Defined Radio)** interfaces to allow for an entirely open-source GSM/5G protocol stack implementation (**if availible**).
 * **Boot-Chain:** The device remains in a hard-reset state until the user provides valid physical authentication, at which point an entirely open, audited boot-sequence begins.
 
 ---
