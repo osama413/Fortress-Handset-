@@ -10,7 +10,7 @@ The **Forness Hardened** is an open-hardware RISC-V handset. Unlike "open-source
 
 ## 🔒 The "Vault" Architecture
 Our commitment to 100% transparency means every component, from the CPU to the GPU and modem interface, is selected based on **public RTL and open-source driver availability.**
-
+(**if the modem is not opensorce you can put it fysicly off by blocking the connection**)
 | Component | Type | Role |
 | :--- | :--- | :--- |
 | **SoC/GPU** | FPGA-based (e.g., VexRiscv) | Full RTL transparency; no hidden binary blobs. |
